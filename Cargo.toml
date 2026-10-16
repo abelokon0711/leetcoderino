@@ -1,0 +1,11 @@
+[package]
+name = "LeetCode"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "max_consecutive_ones_iii"
+path = "src/bin/sliding_window/max_consecutive_ones_iii/main.rs"
