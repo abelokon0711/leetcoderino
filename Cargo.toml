@@ -9,3 +9,7 @@ edition = "2024"
 [[bin]]
 name = "max_consecutive_ones_iii"
 path = "src/bin/sliding_window/max_consecutive_ones_iii/main.rs"
+
+[[bin]]
+name = "fallen_chimney"
+path = "src/bin/misc/fallen_chimney/main.rs"
