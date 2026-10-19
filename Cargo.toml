@@ -11,6 +11,11 @@ name = "max_consecutive_ones_iii"
 path = "src/bin/sliding_window/max_consecutive_ones_iii/main.rs"
 
 [[bin]]
+name = "longest_subarray_of_ones_after_deletion"
+path = "src/bin/sliding_window/longest_subarray_of_ones_after_deletion/main.rs"
+
+
+[[bin]]
 name = "backspace"
 path = "src/bin/misc/backspace/main.rs"
 
