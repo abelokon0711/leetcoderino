@@ -14,7 +14,6 @@ path = "src/bin/sliding_window/max_consecutive_ones_iii/main.rs"
 name = "longest_subarray_of_ones_after_deletion"
 path = "src/bin/sliding_window/longest_subarray_of_ones_after_deletion/main.rs"
 
-
 [[bin]]
 name = "backspace"
 path = "src/bin/misc/backspace/main.rs"
@@ -22,3 +21,7 @@ path = "src/bin/misc/backspace/main.rs"
 [[bin]]
 name = "fallen_chimney"
 path = "src/bin/misc/fallen_chimney/main.rs"
+
+[[bin]]
+name = "best_relay_team"
+path = "src/bin/misc/best_relay_team/main.rs"

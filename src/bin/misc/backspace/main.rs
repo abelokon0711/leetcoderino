@@ -1,4 +1,3 @@
-
 /*
 Problem B - Backspace
 =====================
@@ -98,18 +97,6 @@ Group 4: 40 points
 
 Total: 100 points
 
-Suggested Approach
-------------------
-Use a stack to process the characters.
-
-For each character:
-- If it is a lowercase letter, push it onto the stack.
-- If it is '<', pop the last character if one exists.
-
-Finally, print the remaining characters.
-
-Time Complexity:  O(N)
-Space Complexity: O(N)
 */
 
 use std::{io::{self, Read}};

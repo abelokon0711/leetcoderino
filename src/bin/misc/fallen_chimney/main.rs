@@ -1,4 +1,3 @@
-
 /*
 As a homeowner, you tend to experience many problems: Water pipes can
 burst, fuses can blow, and—most annoyingly—your chimney can fall over.
