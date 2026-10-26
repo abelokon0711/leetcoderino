@@ -25,3 +25,11 @@ path = "src/bin/misc/fallen_chimney/main.rs"
 [[bin]]
 name = "best_relay_team"
 path = "src/bin/misc/best_relay_team/main.rs"
+
+[[bin]]
+name = "tree_skiing"
+path = "src/bin/misc/tree_skiing/main.rs"
+
+[[bin]]
+name = "the_backslash_problem"
+path = "src/bin/misc/the_backslash_problem/main.rs"
