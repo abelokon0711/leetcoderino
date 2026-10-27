@@ -5,7 +5,6 @@ edition = "2024"
 
 [dependencies]
 
-
 [[bin]]
 name = "max_consecutive_ones_iii"
 path = "src/bin/sliding_window/max_consecutive_ones_iii/main.rs"
@@ -17,6 +16,10 @@ path = "src/bin/sliding_window/longest_subarray_of_ones_after_deletion/main.rs"
 [[bin]]
 name = "find_the_difference_of_two_arrays"
 path = "src/bin/hash_map_set/find_the_difference_of_two_arrays/main.rs"
+
+[[bin]]
+name = "unique_numbers_of_occurences"
+path = "src/bin/hash_map_set/unique_numbers_of_occurences/main.rs"
 
 [[bin]]
 name = "backspace"
