@@ -15,6 +15,10 @@ name = "longest_subarray_of_ones_after_deletion"
 path = "src/bin/sliding_window/longest_subarray_of_ones_after_deletion/main.rs"
 
 [[bin]]
+name = "find_the_difference_of_two_arrays"
+path = "src/bin/hash_map_set/find_the_difference_of_two_arrays/main.rs"
+
+[[bin]]
 name = "backspace"
 path = "src/bin/misc/backspace/main.rs"
 
