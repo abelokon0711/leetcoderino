@@ -40,3 +40,7 @@ path = "src/bin/misc/tree_skiing/main.rs"
 [[bin]]
 name = "the_backslash_problem"
 path = "src/bin/misc/the_backslash_problem/main.rs"
+
+[[bin]]
+name = "continous_median"
+path = "src/bin/misc/continous_median/main.rs"
